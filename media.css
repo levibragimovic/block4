@@ -38,21 +38,21 @@
   }
 
   /* SECTION */
-  .section {
+  .main {
     width: 100%;
     display: flex;
   }
-  .section__wrapper {
+  .main__wrapper {
     flex: 0 1 50%;
   }
-  .section__cps {
+  .main__cps {
     flex: 0 1 50%;
     padding: 0 25px 0 25px;
   }
-  .section__img {
+  .main__img {
     border-radius: 10px;
   }
-  .section__text {
+  .main__text {
     line-height: 20px;
     letter-spacing: 1.2px;
   } 
